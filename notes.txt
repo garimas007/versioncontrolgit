@@ -8,3 +8,5 @@ GIT Hub - a web-based platform for hosting and managing GIT repositories.
 git init - Initializes a new GIT repository in the current directory.
 git add
 git status
+git commit
+git log
