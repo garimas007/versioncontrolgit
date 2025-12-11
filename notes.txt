@@ -12,5 +12,6 @@ git basic commands -
     git commit
     git log
 removing changes from stage -
+    git restore --staged <filename>
 viewing history - 
 removing commit from history -
