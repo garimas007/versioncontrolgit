@@ -2,3 +2,5 @@ This is just a random file to practice git commands.
 this is new file to be added. It can be any file (html txt etc)
 ---------
 making change for 2nd commit.
+----------
+3rd modification
