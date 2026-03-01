@@ -7,12 +7,22 @@ GIT Hub - a web-based platform for hosting and managing GIT repositories.
 
 git basic commands -
     git init - Initializes a new GIT repository in the current directory.
-    git add
+    git add (it will stage the file)
     git status
-    git commit
+    git commit -m "<commit-message>"
 removing changes from stage -
     git restore --staged <filename>
 viewing history - 
     git log
-removing commit from history -
-    
+removing commit from history - (only subsicuent)
+    git diff <commit-id other then head pointed to>
+    git reset --hard <commit-id>
+
+
+For github after making the profile you can add ssh key from github setting.
+
+Add remote into your local
+    git remote add origin '<git-uri>'
+    git remote -v
+    git push
+
