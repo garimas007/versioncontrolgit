@@ -26,3 +26,42 @@ Add remote into your local
     git remote -v
     git push
 
+Readme file -
+    you can create it in readme.so/editor
+    it is used to create or write your markdown
+
+Git Lab
+    It is same as github.
+    for connection we connect it by adding key_rsa.
+    and in local you can add remote via 
+    git remote add <another-origin-name> <git-lab-link>
+    - This way we can push local changes into multiple remotes
+
+Branching
+    - git branch <branch-name>  //it creates new branch
+    - git branch -a  //display all branches
+    - git switch <new-branch-name>
+    you can change git branch directly from vscode as well
+    - git checkout -b <new-branch-name>
+    - git pull
+    - git merge <branch name which you want to merge(source branch)>   // do this from target branch
+
+Forking -
+    Its done from git Hub. if u want to copy a project from other's public account.
+    by pull request you can contribute to their project and with the help of sync.
+
+Squashing commits -
+stashing is basically used for incomplete work like you want to save it and come back and work
+again on it.
+
+    - git stash
+    - git stash list
+    - git stash apply
+    - git stash drop
+    - git stash clear
+    - git stash pop
+
+#Merge related cmd -
+    - rebase is diff then merge
+
+git cheat sheet
