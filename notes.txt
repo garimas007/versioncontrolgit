@@ -64,4 +64,5 @@ again on it.
 #Merge related cmd -
     - rebase is diff then merge
 
-git cheat sheet
+git cheat sheet -
+    - https://education.github.com/git-cheat-sheet-education.pdf
