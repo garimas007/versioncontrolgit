@@ -4,3 +4,4 @@ this is frontend form for todo list
 
     item id
     item uuid
+    item hash
