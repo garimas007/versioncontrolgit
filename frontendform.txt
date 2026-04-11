@@ -3,5 +3,3 @@ this is frontend form for todo list
     item description
 
     item id
-    item uuid
-    item hash
